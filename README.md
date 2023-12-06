@@ -1,4 +1,4 @@
-Hi 👋 My name is Raul German
+Raul German
 ============================
 
 Software Engineer
