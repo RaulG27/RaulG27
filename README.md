@@ -8,7 +8,7 @@ Just a Computer Science alumni from Salem State University trying to contribute 
 
 * 🌍  I'm based in Boston, MA
 * ✉️  You can contact me at [rgerman27@outlook.com](mailto:rgerman27@outlook.com)
-* 🚀  I'm currently working on [The Odin Project](http://https://www.theodinproject.com/about)
+* 🚀  I'm currently working on [The Odin Project](https://www.theodinproject.com/about)
 * 🧠  I'm learning HTML, CSS and Javascript
 * 🤝  I'm open to collaborating on any web-based projects
 * ⚡  I'm very passionate about Basketball and the Automotive industry
